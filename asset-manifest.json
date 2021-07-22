@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/signifershrey/alum/static/css/main.8fd8647b.chunk.css",
-    "main.js": "/signifershrey/alum/static/js/main.342481d0.chunk.js",
-    "main.js.map": "/signifershrey/alum/static/js/main.342481d0.chunk.js.map",
-    "runtime-main.js": "/signifershrey/alum/static/js/runtime-main.35a998f0.js",
-    "runtime-main.js.map": "/signifershrey/alum/static/js/runtime-main.35a998f0.js.map",
-    "static/css/2.674c27c3.chunk.css": "/signifershrey/alum/static/css/2.674c27c3.chunk.css",
-    "static/js/2.dc054116.chunk.js": "/signifershrey/alum/static/js/2.dc054116.chunk.js",
-    "static/js/2.dc054116.chunk.js.map": "/signifershrey/alum/static/js/2.dc054116.chunk.js.map",
-    "index.html": "/signifershrey/alum/index.html",
-    "static/css/2.674c27c3.chunk.css.map": "/signifershrey/alum/static/css/2.674c27c3.chunk.css.map",
-    "static/css/main.8fd8647b.chunk.css.map": "/signifershrey/alum/static/css/main.8fd8647b.chunk.css.map",
-    "static/js/2.dc054116.chunk.js.LICENSE.txt": "/signifershrey/alum/static/js/2.dc054116.chunk.js.LICENSE.txt",
-    "static/media/left.e912c3aa.svg": "/signifershrey/alum/static/media/left.e912c3aa.svg",
-    "static/media/right.7ccda614.svg": "/signifershrey/alum/static/media/right.7ccda614.svg"
+    "main.css": "/alum/static/css/main.8fd8647b.chunk.css",
+    "main.js": "/alum/static/js/main.342481d0.chunk.js",
+    "main.js.map": "/alum/static/js/main.342481d0.chunk.js.map",
+    "runtime-main.js": "/alum/static/js/runtime-main.60653a83.js",
+    "runtime-main.js.map": "/alum/static/js/runtime-main.60653a83.js.map",
+    "static/css/2.674c27c3.chunk.css": "/alum/static/css/2.674c27c3.chunk.css",
+    "static/js/2.b6ac6c6a.chunk.js": "/alum/static/js/2.b6ac6c6a.chunk.js",
+    "static/js/2.b6ac6c6a.chunk.js.map": "/alum/static/js/2.b6ac6c6a.chunk.js.map",
+    "index.html": "/alum/index.html",
+    "static/css/2.674c27c3.chunk.css.map": "/alum/static/css/2.674c27c3.chunk.css.map",
+    "static/css/main.8fd8647b.chunk.css.map": "/alum/static/css/main.8fd8647b.chunk.css.map",
+    "static/js/2.b6ac6c6a.chunk.js.LICENSE.txt": "/alum/static/js/2.b6ac6c6a.chunk.js.LICENSE.txt",
+    "static/media/left.e912c3aa.svg": "/alum/static/media/left.e912c3aa.svg",
+    "static/media/right.7ccda614.svg": "/alum/static/media/right.7ccda614.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.35a998f0.js",
+    "static/js/runtime-main.60653a83.js",
     "static/css/2.674c27c3.chunk.css",
-    "static/js/2.dc054116.chunk.js",
+    "static/js/2.b6ac6c6a.chunk.js",
     "static/css/main.8fd8647b.chunk.css",
     "static/js/main.342481d0.chunk.js"
   ]
