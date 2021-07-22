@@ -1,0 +1,61 @@
+body {
+  background-color: #a3d5d3;
+}
+.absolute {
+  /* position: absolute; */
+}
+
+.box {
+  position: absolute;
+  border: solid red 4px;
+  width: 29px;
+  height: 29px;
+  top: 47px;
+  left: -3px;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+}
+
+
+.wrapper {
+  position: absolute;
+}
+
+.buttonUp {
+  position: absolute;
+  left: 50px;
+}
+
+.buttonDown {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+
+.position0 {
+    transform: translate3d(0px, 0px, 0px); 
+
+}
+
+.position1 {
+    transform: translate3d(0px, 50px, 0px); 
+
+}
+
+.position2 {
+    transform: translate3d(0px, 100px, 0px); 
+
+}
+
+.position3 {
+    transform: translate3d(0px, 150px, 0px); 
+
+}
+
+.position4 {
+    transform: translate3d(0px, 200px, 0px); 
+
+}
