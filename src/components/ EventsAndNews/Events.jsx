@@ -1,4 +1,3 @@
-import React, { Component } from "react";
 import Slider from "infinite-react-carousel";
 import { makeStyles } from "@material-ui/core/styles";
 import Card from "@material-ui/core/Card";
@@ -32,7 +31,7 @@ const CustomSlider = () => {
     <div>
       <h1>Latest News and Updates</h1>
       <Slider {...settings}>
-        <div >
+        <div>
           <Card className={classes.root}>
             <CardContent>
               <Typography
@@ -40,7 +39,7 @@ const CustomSlider = () => {
                 color="inherit"
                 gutterBottom
               >
-                Date
+                Jun 24, 2021
               </Typography>
               <Typography variant="h5" component="h2">
                 Weekly Update of Covid War Room Initiatives
@@ -58,10 +57,31 @@ const CustomSlider = () => {
             <CardContent>
               <Typography
                 className={classes.title}
-                color="textSecondary"
+                color="inherit"
                 gutterBottom
               >
-                Date
+                Jun 17, 2021
+              </Typography>
+              <Typography variant="h5" component="h2">
+                BIT Mesra Foundation Day Celebrations
+              </Typography>
+            </CardContent>
+            <CardActions>
+              <Button color="inherit" size="small">
+                Read More
+              </Button>
+            </CardActions>
+          </Card>
+        </div>
+        <div>
+          <Card className={classes.root}>
+            <CardContent>
+              <Typography
+                className={classes.title}
+                color="inherit"
+                gutterBottom
+              >
+                Jun 24, 2021
               </Typography>
               <Typography variant="h5" component="h2">
                 Weekly Update of Covid War Room Initiatives
@@ -79,10 +99,10 @@ const CustomSlider = () => {
             <CardContent>
               <Typography
                 className={classes.title}
-                color="textSecondary"
+                color="inherit"
                 gutterBottom
               >
-                Date
+                Jun 24, 2021
               </Typography>
               <Typography variant="h5" component="h2">
                 Weekly Update of Covid War Room Initiatives
@@ -100,10 +120,31 @@ const CustomSlider = () => {
             <CardContent>
               <Typography
                 className={classes.title}
-                color="textSecondary"
+                color="inherit"
                 gutterBottom
               >
-                Date
+                Jun 24, 2021
+              </Typography>
+              <Typography variant="h5" component="h2">
+                COVID War Room Updates
+              </Typography>
+            </CardContent>
+            <CardActions>
+              <Button color="inherit" size="small">
+                Read More
+              </Button>
+            </CardActions>
+          </Card>
+        </div>
+        <div>
+          <Card className={classes.root}>
+            <CardContent>
+              <Typography
+                className={classes.title}
+                color="inherit"
+                gutterBottom
+              >
+                Jun 24, 2021
               </Typography>
               <Typography variant="h5" component="h2">
                 Weekly Update of Covid War Room Initiatives
@@ -121,97 +162,13 @@ const CustomSlider = () => {
             <CardContent>
               <Typography
                 className={classes.title}
-                color="textSecondary"
+                color="inherit"
                 gutterBottom
               >
-                Date
+                Jun 24, 2021
               </Typography>
               <Typography variant="h5" component="h2">
-                Weekly Update of Covid War Room Initiatives
-              </Typography>
-            </CardContent>
-            <CardActions>
-              <Button color="inherit" color="inherit" size="small">
-                Read More
-              </Button>
-            </CardActions>
-          </Card>
-        </div>
-        <div>
-          <Card className={classes.root}>
-            <CardContent>
-              <Typography
-                className={classes.title}
-                color="textSecondary"
-                gutterBottom
-              >
-                Date
-              </Typography>
-              <Typography variant="h5" component="h2">
-                Weekly Update of Covid War Room Initiatives
-              </Typography>
-            </CardContent>
-            <CardActions>
-              <Button color="inherit" color="inherit" size="small">
-                Read More
-              </Button>
-            </CardActions>
-          </Card>
-        </div>
-        <div>
-          <Card className={classes.root}>
-            <CardContent>
-              <Typography
-                className={classes.title}
-                color="textSecondary"
-                gutterBottom
-              >
-                Date
-              </Typography>
-              <Typography variant="h5" component="h2">
-                Weekly Update of Covid War Room Initiatives
-              </Typography>
-            </CardContent>
-            <CardActions>
-              <Button color="inherit" size="small">
-                Read More
-              </Button>
-            </CardActions>
-          </Card>
-        </div>
-        <div>
-          <Card className={classes.root}>
-            <CardContent>
-              <Typography
-                className={classes.title}
-                color="textSecondary"
-                gutterBottom
-              >
-                Date
-              </Typography>
-              <Typography variant="h5" component="h2">
-                Weekly Update of Covid War Room Initiatives
-              </Typography>
-            </CardContent>
-            <CardActions>
-              <Button color="inherit" size="small">
-                Read More
-              </Button>
-            </CardActions>
-          </Card>
-        </div>
-        <div>
-          <Card className={classes.root}>
-            <CardContent>
-              <Typography
-                className={classes.title}
-                color="textSecondary"
-                gutterBottom
-              >
-                Date
-              </Typography>
-              <Typography variant="h5" component="h2">
-                Weekly Update of Covid War Room Initiatives
+                COVID War Room Updates
               </Typography>
             </CardContent>
             <CardActions>

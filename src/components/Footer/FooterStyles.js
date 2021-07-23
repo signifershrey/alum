@@ -17,6 +17,7 @@ export const Container = styled.div`
   flex-direction: column;
   justify-content: center;
   max-width: 1000px;
+  color: whitesmoke;
   margin: 0 auto;
   /* background: red; */
 `;
@@ -39,13 +40,13 @@ export const Row = styled.div`
 `;
 
 export const FooterLink = styled.a`
-  color: #fff;
+  color: whitesmoke;
   margin-bottom: 20px;
   font-size: 18px;
   text-decoration: none;
 
   &:hover {
-    color: green;
+    color: brown;
     transition: 200ms ease-in;
   }
 `;

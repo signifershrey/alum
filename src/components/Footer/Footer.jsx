@@ -27,13 +27,13 @@ const Footer = () => {
           right: "30px",
         }}
       >
-        BITS GLOBAL
+        BITOSA GLOBAL
         <img
           style={{
             height: "60px",
             // marginTop: "50px",
             position: "relative",
-            right: "320px",
+            right: "370px",
             top: "25px",
           }}
           src="https://icskhed.org/wp-content/uploads/2018/09/alumni.png"
@@ -65,13 +65,12 @@ const Footer = () => {
             <FooterLink href="#">Coding</FooterLink>
             <FooterLink href="#">Teaching</FooterLink>
           </Column>
-
           <Column>
             <Heading>Social Media</Heading>
             <FooterLink href="#">
-              <i className="fab fa-facebook-f">
-                <span style={{ marginLeft: "10px" }}>Facebook</span>
-              </i>
+              {/* <i className="fab fa-facebook-f"> */}
+              <span style={{ marginLeft: "10px" }}>Facebook</span>
+              {/* </i> */}
             </FooterLink>
             <FooterLink href="#">
               <i className="fab fa-instagram">
