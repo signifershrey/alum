@@ -8,6 +8,7 @@ import LoginForm from "./components/Login/LoginForm";
 import Footer from "./components/Footer/Footer";
 import { Divider } from "@material-ui/core";
 import Alumni from "./components/Alumni/Alumni";
+// import Moving from "./components/moving";
 
 const Others = () => {
   return (
@@ -17,6 +18,7 @@ const Others = () => {
       <Divider />
       <Colleges />
       <VerticalCarousel />
+      {/* <Moving/> */}
       <LoginForm />
       <Footer />
     </div>

@@ -66,7 +66,7 @@ export default function Navbar() {
               variant="h6"
               className={classes.title}
             >
-              BITOSA GLOBAL
+              BITOSAHQ
             </Typography>
             <Button
               // variant="h6"

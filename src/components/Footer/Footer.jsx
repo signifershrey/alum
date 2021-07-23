@@ -27,13 +27,13 @@ const Footer = () => {
           right: "30px",
         }}
       >
-        BITOSA GLOBAL
+        BITOSAHQ
         <img
           style={{
             height: "60px",
             // marginTop: "50px",
             position: "relative",
-            right: "370px",
+            right: "270px",
             top: "25px",
           }}
           src="https://icskhed.org/wp-content/uploads/2018/09/alumni.png"
